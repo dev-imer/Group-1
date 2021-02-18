@@ -1,7 +1,6 @@
-Group-1 BSIT 2-C
- 
+#Group-1 BSIT 2-C
 Members: 
-1.Leader - Victoria, Lemuel Jeremy 
+1.Victoria, Lemuel Jeremy - Leader
 2.Villanueva, Jayvee
 3.Tabo, John Marvin
 4.Jim Regato
