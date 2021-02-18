@@ -1,3 +1,3 @@
 Group-1 BSIT 2-C
 
-Members: Leader - Lemuel Jeremy Victoria, Dhean Revilla, Angeline Sanjorjo, Jayvee Dandan, Jayvee Villanueva, Renzo Roque, John Marvin Tabo, Jim Regato.
+Members: Leader - "Victoria, Lemuel Jeremy", "Villanueva, Jayvee", "Tabo, John Marvin", "Jim Regato", Angeline Sanjorjo,  Renzo Roque.
