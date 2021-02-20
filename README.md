@@ -5,3 +5,4 @@
 4. Regato, Jim
 5. Roque, Renzo
 6. Sanjorjo, Angeline
+7. Dandan, Jayvee
